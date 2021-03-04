@@ -1,0 +1,1 @@
+venv\Scripts\pyinstaller.exe -F -n "PostScan" main.py
